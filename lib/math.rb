@@ -34,6 +34,6 @@ end
 
 def square_root(num)
 
-  square = 
+  square = math
 
 end
